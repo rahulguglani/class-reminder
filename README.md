@@ -6,6 +6,9 @@ It is a python program which reminds you of your class 10 min's before the class
 Add classrem.py shortcut to startup folder for that press win+R and type shell:startup and paste classrem.py shortcut there.
 
 In timetable.txt enter your class name then press tab class link then press tab then on which day and on which time class is there with tab's between them.
+
+enter new class in new line
+
 ![image](https://user-images.githubusercontent.com/60490438/132087923-7b701bd3-80a9-4312-8284-72f2baa29b34.png)
 
 for correct working of program timetable.txt should be in same format.
